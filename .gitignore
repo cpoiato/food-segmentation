@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.env
+*.pt
+TD — Git, DVC & YOLOv8
+Page 6
+*.pth
+.DS_Store
+Thumbs.db
